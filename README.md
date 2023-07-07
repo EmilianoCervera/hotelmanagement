@@ -19,7 +19,7 @@ Nuestro objetivo principal es ofrecer una plataforma fácil de usar y de alta ca
 ## Uso
 * "app deployada"
 * Inicia sesión con un usuario registrado o crea una cuenta nueva.
-* Un ejemplo de usuario es: USUARIO: ejemplo@rolling.com CONTRASEÑA: xxxx
+* Un ejemplo de usuario es: USUARIO: ejemplo@asdasdasd.com CONTRASEÑA: xxxx
 * xxxxxxxxxxxxxxxxxxxx
 * xxxxxxxxxxxxxxxxxxxxxx
 * xxxxxxxxxxxxxxxx
